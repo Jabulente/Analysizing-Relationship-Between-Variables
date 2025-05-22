@@ -42,12 +42,18 @@
 </ol>
 
 
-  <h2>📁 Project Files</h2>
-  <ul>
-    <li><code>anova_analysis.ipynb</code>: Jupyter notebook containing the full analysis workflow.</li>
-    <li><code>data.csv</code>: Example dataset used in the analysis.</li>
-    <li><code>README.md</code>: This documentation file.</li>
-  </ul>
+  <h2>📁 Folder Structure</h2>
+
+  ```
+  ├── Datasets/            # Real and synthetic datasets used in the projects
+  ├── Notebooks/           # Jupyter notebooks for  analysis
+  ├── Outputs/             # Plots, summaries, and output files
+  ├── Resources/           # Supplementary materials and references
+  ├── Scripts/             # Python scripts for reusable functions
+  ├── Notebook.ipynb       # Main analysis notebook
+  ├── README.md            # Project documentation
+  ```
+
 
   <h2>⚙️ Setup Instructions</h2>
   <p>Ensure you have <code>Python 3.7+</code> installed along with the required libraries:</p>
@@ -56,9 +62,7 @@
   <h2>📌 Additional Notes</h2>
   <p>This project is designed to be adaptable across domains such as agriculture, healthcare, education, and social sciences. It assumes familiarity with basic statistics and Python programming. The structured approach guarantees reproducible and reliable results, making it suitable for research and professional portfolios.</p>
 
-  <footer>
-    &copy; 2025 Portfolio Project by [Your Name]. All rights reserved.
-  </footer>
+<p align="center"> &copy; <span id="year"></span> Portfolio Project by Jabulente. All rights reserved.</p>
 
 </samp>
 
