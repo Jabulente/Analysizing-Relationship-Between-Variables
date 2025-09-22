@@ -20,11 +20,22 @@ This repository showcases a comprehensive correlation analysis project, demonstr
 * **Environment:** Jupyter Notebook for interactive exploration
 * **Version Control:** Git & GitHub
 
-### 📊 Example Results
+### License
+This project is licensed under the **MIT License** – you are free to use, modify, and distribute the code, provided that proper attribution is given. See the `LICENSE` file for details.
 
-* Correlation heatmap highlighting strong positive and negative relationships between variables.
-* Pearson correlation analysis showing linear dependencies with statistical significance levels.
-* Spearman and Kendall coefficients detecting monotonic and rank-based associations.
-* Insights into potential multicollinearity risks for regression modeling.
-* Actionable findings applicable to predictive analytics, research, and decision-making.
 
+### 🤝 Contribution
+
+Contributions to this project are welcome! You can help by:
+
+* Reporting issues or suggesting new features via GitHub Issues.
+* Submitting pull requests with bug fixes, enhancements, or improved documentation.
+* Adding new datasets, visualizations, or correlation analysis techniques.
+* Providing feedback to improve code readability, reproducibility, and usability.
+
+Please follow the standard GitHub workflow: fork the repository, create a feature branch, commit your changes, and submit a pull request. All contributions should adhere to the project’s coding and documentation standards.
+
+
+### ✅ Conclusion
+
+This project demonstrates how correlation analysis can be used as a powerful tool in exploratory data analysis to uncover hidden relationships, detect multicollinearity, and guide model development. By combining statistical rigor with intuitive visualizations, the analysis not only identifies significant associations but also provides actionable insights for research, predictive modeling, and data-driven decision-making. The structured workflow, from data preprocessing to annotated visual outputs, ensures the results are transparent, reproducible, and adaptable to diverse datasets and domains.
